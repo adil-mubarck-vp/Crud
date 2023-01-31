@@ -1,0 +1,51 @@
+.body-parent{
+    display: flex;
+    width: 100%;
+}
+
+.body-left{
+  width: 40%;
+  padding: 5% 10%;
+}
+
+.body-right{
+    width: 40%;
+    padding: 2% 0%;
+    height: 30px;
+}
+.body-left h1{
+    font-size:5rem;
+    color: darkgrey;
+    
+}
+.body-left span{
+    color: #00aeef;
+}
+.body-left p{
+    font-size: 2rem;
+}
+.btn{
+    /* width: 120px;
+    height: 60px;
+    background-color:00aeef;
+    border-radius: 60%; */
+width: 270px;
+height: 94px;
+    border-radius: 500px;
+    padding: 15px 30px;
+    color: #fff;
+    background: #00aeef;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border: none;
+}
+.body-down {
+    width: 34%;
+    height: 39px;
+    padding: 90px 135px;
+}
+.body-down h1{
+    font-size:5rem;
+    color: darkgrey;
+}
